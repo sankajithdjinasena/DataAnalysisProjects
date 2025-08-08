@@ -48,6 +48,21 @@ We explored the dataset to answer the following:
 
 ---
 
+## 📝 Visualization Questions
+
+1. Wind Speed Distribution
+    - Create a histogram or boxplot of Wind Speed_km/h to understand its distribution and identify outliers.
+2. Relationship Between Temperature and Dew Point
+    - Use a scatter plot to explore how temperature relates to dew point temperature.
+3. Average Visibility for Each Weather Condition
+    - Use a bar plot to show mean Visibility_km for each unique weather condition.
+4. Boxplots of Temperature Across Different Weather Conditions
+    - Compare the temperature distribution across different weather types.
+5. Wind Speed vs Visibility for High Wind Speeds
+    - Create a scatter plot for instances where wind speed is above a certain threshold (e.g., > 24 km/h), to see if visibility is affected.
+
+---
+
 ## 🛠 Tools & Libraries
 
 - **Python**

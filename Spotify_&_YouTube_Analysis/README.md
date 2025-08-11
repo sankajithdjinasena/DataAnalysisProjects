@@ -64,7 +64,7 @@ We analyze this data using **Python** to uncover patterns in artist popularity, 
    ```
 2. Navigate to the project folder:
    ```bash
-   cd DataAnalysisProjects/SpotifyYouTubeAnalysis
+   cd DataAnalysisProjects/Spotify_&_YouTube_Analysis
    ```
 3. Install dependencies:
    ```bash
@@ -72,7 +72,7 @@ We analyze this data using **Python** to uncover patterns in artist popularity, 
    ```
 4. Open the Jupyter Notebook:
    ```bash
-   jupyter notebook Spotify_YouTube_Analysis.ipynb
+   jupyter notebook Spotify_Youtube_Analysis.ipynb
    ```
 
 ---

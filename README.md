@@ -34,13 +34,43 @@ Analyze historical weather data to identify trends, seasonal patterns, and anoma
 ```
 DataAnalysisProjects/
 │
-├── WeatherDataAnalysis/
-│   ├── weather_analysis.ipynb   # Jupyter Notebook with full analysis
-│   ├── data/                    # Raw & cleaned datasets
-│   ├── visuals/                 # Generated charts & plots
-│   └── README.md                # Project-specific documentation
+├── AI_Financial_Market_Data_Analysis/
+│   ├── AI_Financial_Market_Data_Analysis.ipynb   
+│   ├── ai_financial_market_daily_realistic_synthetic_dataset.csv
+│   ├── requirements.txt                     
+│   ├── Figures/                
+│   └── README.md
 │
-└── README.md                    # This file
+├── Airline_Flights_Analysis/
+│   ├── Airline_analyze.ipynb   
+│   ├── airline_flights_data.csv
+│   ├── requirements.txt                     
+│   ├── Figures/                
+│   └── README.md
+│
+├── Insurance_Analysis/
+│   ├── Insurance_data_analyze.ipynb   
+│   ├── insurance.csv
+│   ├── requirements.txt                     
+│   ├── Figure/               
+│   └── README.md
+│
+├── Netflix_Analysis/
+│   ├── Netflix_Analysis.ipynb   
+│   ├── netflix_data.csv
+│   ├── requirements.txt                     
+│   ├── Figure/                
+│   └── README.md                  
+│
+├── Weather_Analysis/
+│   ├── weather_analysis.ipynb   
+│   ├── weather_data.csv
+│   ├── requirements.txt                     
+│   ├── Figures/                
+│   └── README.md
+│
+├── requirements.txt
+└── README.md                    
 ```
 
 ---

@@ -69,6 +69,17 @@ DataAnalysisProjects/
 │   ├── Figures/                
 │   └── README.md
 │
+├── Economic_Analysis/
+│   ├── economic_analysis.ipynb   
+│   ├── requirements.txt                     
+│   └── Figures/                
+|
+├── Weather_Analysis/
+│   ├── roller_coaster_analysis.ipynb   
+│   ├── coaster_db.csv
+│   ├── requirements.txt                     
+│   └── Figures/                
+|
 ├── requirements.txt
 └── README.md                    
 ```

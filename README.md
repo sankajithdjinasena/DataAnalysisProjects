@@ -22,6 +22,7 @@ Analyze historical weather data to identify trends, seasonal patterns, and anoma
 - NumPy
 - Matplotlib
 - Seaborn
+- plotly
 
 **Example Outputs:**
 - Temperature trends over time  
@@ -80,6 +81,23 @@ DataAnalysisProjects/
 │   ├── requirements.txt                     
 │   └── Figures/                
 |
+├── Salary_Analysis/
+│   ├── salary_analysis.ipynb   
+│   ├── Salary_Dataset_DSL.csv
+│   ├── requirements.txt     
+│   ├── README.md                
+│   └── Figures/                
+|
+├── Quick_Commerce_Analysis/
+│   ├── Quick_Commerce_Analysis.ipynb   
+│   ├── Cleaned_Quick_Commerce_Analysis.csv
+│   ├── quick_commerce_data_raw.csv company_efficiency_bubble_chart.html
+│   ├── company_efficiency_bubble_chart.html
+│   ├── note.txt
+│   ├── requirements.txt                     
+│   ├── Figure/               
+│   └── README.md
+│
 ├── requirements.txt
 └── README.md                    
 ```
